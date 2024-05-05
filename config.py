@@ -14,13 +14,13 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","jatin_24x")
+OWNER_USERNAME = getenv("OWNER_USERNAME","UNNI_YT")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "Anya_Forger_ProBot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "Angelina345Bot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "𝗔𝗻𝘆𝗮 ⫪ 𝗙𝗼𝗿𝗴𝗲𝗿")
+BOT_NAME = getenv("BOT_NAME" , "ANGELINA[@OFFLINE]🇮🇳℡ ️️")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "˹ 𝘼𝙣𝙮𝙖 ✘ 𝘼𝙨𝙨𝙞𝙨𝙩𝙖𝙣𝙩˼")
+ASSUSERNAME = getenv("ASSUSERNAME" , "˹  Angelina ✘ 𝘼𝙨𝙨𝙞𝙨𝙩𝙖𝙣𝙩˼")
 # ---------------------------------------------------------
 
 
@@ -53,7 +53,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/GojoDevloper/DAXXMUSIC",
+    "https://github.com/UNNI12345YT/UxB-Music-Bot",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Master")
 GIT_TOKEN = getenv(
@@ -67,10 +67,9 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/savage_networks")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/anime_savage_group")
-REPORT = getenv("REPORT", "https://t.me/anya_forger_chat")
-UPDATES = getenv("UPDATES", "https://t.me/anya_forger_updates")
+MOVIE_GROUP = getenv("MOVIE_GROUP", "https://t.me/mangalassery_movies_group")
+REPORT = getenv("REPORT", "https://t.me/UNNI_YT")
+MUSIC_GROUP = getenv("MUSIC_GROUP", "https://t.me/mangalassery_movies_group")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
