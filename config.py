@@ -14,13 +14,13 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","jatin_24x")
+OWNER_USERNAME = getenv("OWNER_USERNAME","UNNI_YT")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "Anya_Forger_ProBot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "Angelina345Bot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "𝗔𝗻𝘆𝗮 ⫪ 𝗙𝗼𝗿𝗴𝗲𝗿")
+BOT_NAME = getenv("BOT_NAME" , "ANGELINA[@OFFLINE]🇮🇳℡ ️️")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "˹ 𝘼𝙣𝙮𝙖 ✘ 𝘼𝙨𝙨𝙞𝙨𝙩𝙖𝙣𝙩˼")
+ASSUSERNAME = getenv("ASSUSERNAME" , "˹ ANGELINA ✘ 𝘼𝙨𝙨𝙞𝙨𝙩𝙖𝙣𝙩˼")
 # ---------------------------------------------------------
 
 
@@ -35,10 +35,10 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 20000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", -1002069282863)) # groip id + admin add bot 
+LOGGER_ID = int(getenv("LOGGER_ID", -1002087115097)) # groip id + admin add bot 
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 6570434731))
+OWNER_ID = int(getenv("OWNER_ID", 6171681404))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -67,10 +67,9 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/savage_networks")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/anime_savage_group")
-REPORT = getenv("REPORT", "https://t.me/anya_forger_chat")
-UPDATES = getenv("UPDATES", "https://t.me/anya_forger_updates")
+MOVIE_GROUP = getenv("MOVIE_GROUP", "https://t.me/mangalassery_movies_group")
+REPORT = getenv("REPORT", "https://t.me/UNNI_YT")
+MUSIC_GROUP = getenv("MUSIC_GRUOP", "https://t.me/mangalassery_movies_group")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
