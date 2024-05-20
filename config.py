@@ -9,18 +9,18 @@ from pyrogram import filters
 load_dotenv()
 # ------------------------------------
 # -----------------------------------------------------
-API_ID = int(getenv("API_ID"))
-API_HASH = getenv("API_HASH")
+API_ID = int(getenv("27408015"))
+API_HASH = getenv("2f07e7c921c8d2b982df12d65a46ca46")
 # ------------------------------------------------------
-BOT_TOKEN = getenv("BOT_TOKEN")
+BOT_TOKEN = getenv("7000585303:AAGKx61cQ5t0qLR190Ewaag2fLc5s_jIsIo")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","UNNI_YT")
+OWNER_USERNAME = getenv("OWNER_USERNAME","UNNIduo")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "Angelina345Bot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "DIYA345BOT")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "ANGELINA[@OFFLINE]🇮🇳℡ ️️")
+BOT_NAME = getenv("BOT_NAME" , "D I Y A 🎶")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "˹  Angelina ✘ 𝘼𝙨𝙨𝙞𝙨𝙩𝙖𝙣𝙩˼")
+ASSUSERNAME = getenv("ASSUSERNAME" , "˹ DIYA ✘ 𝘼𝙨𝙨𝙞𝙨𝙩𝙖𝙣𝙩˼")
 # ---------------------------------------------------------
 
 
@@ -35,10 +35,10 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 20000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", -1002087115097)) # groip id + admin add bot 
+LOGGER_ID = int(getenv("LOGGER_ID", -1002067148624)) # groip id + admin add bot 
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 6570434731))
+OWNER_ID = int(getenv("OWNER_ID", 6511724381))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -67,9 +67,9 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-MOVIE_GROUP = getenv("MOVIE_GROUP", "https://t.me/mangalassery_movies_group")
-REPORT = getenv("REPORT", "https://t.me/UNNI_YT")
-MUSIC_GROUP = getenv("MUSIC_GROUP", "https://t.me/mangalassery_movies_group")
+MOVIE_GROUP = getenv("MOVIE_GROUP", "https://t.me/mangalassery_movie_group")
+REPORT = getenv("REPORT", "https://t.me/UNNIduo")
+MUSIC_GROUP = getenv("MUSIC_GROUP", "https://t.me/mangalassery_movie_group")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
