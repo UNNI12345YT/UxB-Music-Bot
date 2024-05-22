@@ -14,13 +14,13 @@ API_HASH = getenv("API_HASH = 2f07e7c921c8d2b982df12d65a46ca46")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("7000585303:AAGKx61cQ5t0qLR190Ewaag2fLc5s_jIsIo")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","UNNIduo")
+OWNER_USERNAME = getenv("OWNER_USERNAME","UNNIdud")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "DIYA345BOT")
+BOT_USERNAME = getenv("BOT_USERNAME" , "URURU345BOT")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME" , "D I Y A 🎶")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "˹ DIYA ✘ 𝘼𝙨𝙨𝙞𝙨𝙩𝙖𝙣𝙩˼")
+ASSUSERNAME = getenv("ASSUSERNAME" , "˹ URURU ✘ 𝘼𝙨𝙨𝙞𝙨𝙩𝙖𝙣𝙩˼")
 # ---------------------------------------------------------
 
 
@@ -38,7 +38,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 20000))
 LOGGER_ID = int(getenv("LOGGER_ID", -1002067148624)) # groip id + admin add bot 
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 6511724381))
+OWNER_ID = int(getenv("OWNER_ID", 6171681404))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
